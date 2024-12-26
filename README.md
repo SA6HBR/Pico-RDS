@@ -68,4 +68,4 @@ Tuning freq. : 103.8 Mapped FM freq. 0 : 98.8
 
 ## License
 
-GNU General Public License v3.0, see [LICENSE](https://github.com/SA6HBR/SerialProxy/blob/main/LICENSE) for details.
+GNU General Public License v3.0, see [LICENSE](https://github.com/SA6HBR/Pico-RDS/blob/main/LICENSE) for details.
